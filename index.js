@@ -18,7 +18,7 @@ const PROJECTS = [
     },
     {
         id: 2, category: 'management',
-        title: 'Lazer Tag Software',
+        title: 'Laser Tag Software',
         short: 'Python · Trello · Slack · GitHub',
         summary: 'Coordinated with my team to develop a laser tag management system by organizing project timelines, managing task assignments, and facilitating communication across the development process. Leveraged Agile methodologies and collaboration tools while actively contributing to coding, testing, and system implementation to keep the project on schedule.',
         media: 'lt.mp4', isVideo: true
